@@ -5,3 +5,4 @@
 `git checkout -b <new-branch>` - create a new local branch
 `git push -u origin <new-branch>` - publish a new branch
 `git pull` - pull changes from remote
+`git branch` - shows or displays the all  locol branches
