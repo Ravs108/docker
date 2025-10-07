@@ -1,5 +1,6 @@
 `git status` - shows the summary of changes
 `git add .` - adds all files within the same location
+``git add individuula filename_test.js` - adding individual file to gti git repository.git 
 `git commit -m "<message>"` - adds a commit message regarding the added files
 `git push` - pushes the code to remote branch
 `git checkout -b <new-branch>` - create a new local branch
